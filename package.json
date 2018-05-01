@@ -1,0 +1,24 @@
+{
+  "name": "redis-redlock-impl",
+  "version": "1.0.0",
+  "description": "redis redlock implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandrahasraj/Redis-Redlock-Impl.git"
+  },
+  "keywords": [
+    "Redis",
+    "Redlock",
+    "Node"
+  ],
+  "author": "chandrahas raj g venkat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandrahasraj/Redis-Redlock-Impl/issues"
+  },
+  "homepage": "https://github.com/chandrahasraj/Redis-Redlock-Impl#readme"
+}
